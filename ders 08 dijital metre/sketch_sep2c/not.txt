@@ -1,0 +1,2 @@
+çizindeki pinleri d1 d4 yap resimdekiler çalışmıyor
+5v a tak resimdeki hatalı

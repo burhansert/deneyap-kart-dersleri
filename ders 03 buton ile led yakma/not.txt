@@ -1,0 +1,3 @@
+devre çizimi hatalı
+buton sarı kablosu altta olmalı
+koduda düzelt buzzer sil
